@@ -1,2 +1,2 @@
-FROM amazoncorretto:8u342-alpine3.15-jre
+FROM amazoncorretto:8-alpine-jdk
 RUN apk add --update nodejs npm
